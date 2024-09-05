@@ -1,1 +1,1 @@
-Testing Plotly with a Dice
+Testing Plots with a Dice
